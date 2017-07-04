@@ -1,0 +1,95 @@
+* {
+	font-size: 16px;
+	font-family: 'Bubbler One', sans-serif;
+}
+
+
+body {
+	max-width: 980px;
+	margin: 0 auto;
+
+}
+
+form {
+	display:flex;
+	justify-content: center;
+
+}
+
+
+
+form input {
+	width: 150px;
+	height: 25px;
+	margin-top: 20px;
+
+	
+}
+
+ul {
+	list-style: none;
+}
+
+
+.container {
+	display:flex-wrap;
+	justify-content: space-around;
+	
+}
+
+.container img {
+	margin: 15px;
+	
+}
+
+
+a {
+	text-decoration: none;
+	display: inline-block; /*so the image has a complete link area */
+}
+
+/*LIGHTBOX2 */
+
+/*Caption Styling*/
+
+	
+
+
+@media (min-width: 400px) {
+
+
+/*LAYOUT*/
+
+li {
+	display: inline;
+}
+
+
+
+
+/*LIGHTBOX2 */
+
+/*Caption Styling*/
+
+
+span.lb-caption {
+	width: 600px;
+	
+	
+}
+
+div.lb-details {
+	text-align: center;
+	width: 600px;
+
+}
+
+
+
+}
+
+
+
+
+
+
